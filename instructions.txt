@@ -1,5 +1,5 @@
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is minor pain..."
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam orci orci, sagittis a gravida vitae, finibus quis lorem. Nam quam ligula, ultricies sit amet semper at, elementum vel lorem. Quisque bibendum cursus hendrerit. Suspendisse potenti. Praesent fermentum mattis diam id placerat. Suspendisse potenti. Fusce maximus est et sem interdum varius. Fusce porta tempor felis in auctor. Maecenas scelerisque placerat mauris, tempus gravida magna.
